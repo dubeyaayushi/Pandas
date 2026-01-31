@@ -13,10 +13,7 @@ print(f'Shape: {df.shape}')
 print(f'Column Names: {df.columns}')
 
 
-# In pandas, the .shape attribute is
-# used to get the dimensions (rows and columns) 
-# of a DataFrame, while t
-# he .columns attribute provides access to the column labels. 
+# In pandas, the .shape attribute is used to get the dimensions (rows and columns) of a DataFrame, while the .columns attribute provides access to the column labels. 
 
 
 
